@@ -1,0 +1,17 @@
+body {
+    background-color: dimgray;
+    margin: 0em;
+}
+
+
+#myDiv {
+    background-color: lightgreen;
+    width: 200px ; 
+    height: 200px ;
+    border: 10px solid black;
+    font-size: 6rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
